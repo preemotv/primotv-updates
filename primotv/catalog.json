@@ -1,0 +1,3368 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.06.01",
+  "generatedAt": "2026-06-01T22:47:07.187Z",
+  "playlistId": 2,
+  "catalogs": [
+    {
+      "title": "ESPN",
+      "count": 1821,
+      "displayOrder": 10,
+      "groups": [
+        {
+          "title": "ESPN",
+          "count": 1821,
+          "displayOrder": 10,
+          "artworkKey": "espn",
+          "mapping": {
+            "primotv_parent": "ESPN",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "ESPN",
+            "grp": "ESPN",
+            "primotv_sort_priority": 10,
+            "primotv_logo_key": "espn"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Baseball",
+      "count": 209,
+      "displayOrder": 100,
+      "groups": [
+        {
+          "title": "MLB Teams",
+          "count": 31,
+          "displayOrder": 100,
+          "artworkKey": "mlb",
+          "mapping": {
+            "primotv_parent": "Baseball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MLB Teams",
+            "grp": "MLB Teams",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "mlb"
+          }
+        },
+        {
+          "title": "MLB Network/Package",
+          "count": 19,
+          "displayOrder": 200,
+          "artworkKey": "mlb",
+          "mapping": {
+            "primotv_parent": "Baseball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MLB Network/Package",
+            "grp": "MLB Network/Package",
+            "primotv_sort_priority": 200,
+            "primotv_logo_key": "mlb"
+          }
+        },
+        {
+          "title": "MiLB Package",
+          "count": 100,
+          "displayOrder": 300,
+          "artworkKey": "milb",
+          "mapping": {
+            "primotv_parent": "Baseball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MiLB Package",
+            "grp": "MiLB Package",
+            "primotv_sort_priority": 300,
+            "primotv_logo_key": "milb"
+          }
+        },
+        {
+          "title": "Baseball Events",
+          "count": 59,
+          "displayOrder": 400,
+          "artworkKey": "baseball_events",
+          "mapping": {
+            "primotv_parent": "Baseball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Baseball Events",
+            "grp": "Baseball Events",
+            "primotv_sort_priority": 400,
+            "primotv_logo_key": "baseball_events"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Basketball",
+      "count": 99,
+      "displayOrder": 100,
+      "groups": [
+        {
+          "title": "NBA Teams",
+          "count": 30,
+          "displayOrder": 100,
+          "artworkKey": "nba",
+          "mapping": {
+            "primotv_parent": "Basketball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NBA Teams",
+            "grp": "NBA Teams",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "nba"
+          }
+        },
+        {
+          "title": "NBA Network/Package",
+          "count": 59,
+          "displayOrder": 200,
+          "artworkKey": "nba",
+          "mapping": {
+            "primotv_parent": "Basketball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NBA Network/Package",
+            "grp": "NBA Network/Package",
+            "primotv_sort_priority": 200,
+            "primotv_logo_key": "nba"
+          }
+        },
+        {
+          "title": "WNBA Package",
+          "count": 10,
+          "displayOrder": 260,
+          "artworkKey": "wnba",
+          "mapping": {
+            "primotv_parent": "Basketball",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "WNBA Package",
+            "grp": "WNBA Package",
+            "primotv_sort_priority": 260,
+            "primotv_logo_key": "wnba"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "F1",
+      "count": 129,
+      "displayOrder": 100,
+      "groups": [
+        {
+          "title": "F1",
+          "count": 129,
+          "displayOrder": 100,
+          "artworkKey": "f1",
+          "mapping": {
+            "primotv_parent": "F1",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "F1",
+            "grp": "F1",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "f1"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Football",
+      "count": 323,
+      "displayOrder": 100,
+      "groups": [
+        {
+          "title": "NFL Teams",
+          "count": 38,
+          "displayOrder": 100,
+          "artworkKey": "nfl",
+          "mapping": {
+            "primotv_parent": "Football",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NFL Teams",
+            "grp": "NFL Teams",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "nfl"
+          }
+        },
+        {
+          "title": "NFL Network/Package",
+          "count": 133,
+          "displayOrder": 200,
+          "artworkKey": "nfl",
+          "mapping": {
+            "primotv_parent": "Football",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NFL Network/Package",
+            "grp": "NFL Network/Package",
+            "primotv_sort_priority": 200,
+            "primotv_logo_key": "nfl"
+          }
+        },
+        {
+          "title": "NCAAF Package",
+          "count": 71,
+          "displayOrder": 300,
+          "artworkKey": "ncaaf",
+          "mapping": {
+            "primotv_parent": "Football",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NCAAF Package",
+            "grp": "NCAAF Package",
+            "primotv_sort_priority": 300,
+            "primotv_logo_key": "ncaaf"
+          }
+        },
+        {
+          "title": "NFHS / High School Football",
+          "count": 81,
+          "displayOrder": 350,
+          "artworkKey": "high_school_football",
+          "mapping": {
+            "primotv_parent": "Football",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NFHS / High School Football",
+            "grp": "NFHS / High School Football",
+            "primotv_sort_priority": 350,
+            "primotv_logo_key": "high_school_football"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Fútbol",
+      "count": 1174,
+      "displayOrder": 100,
+      "groups": [
+        {
+          "title": "MLS Teams",
+          "count": 29,
+          "displayOrder": 100,
+          "artworkKey": "mls",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MLS Teams",
+            "grp": "MLS Teams",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "mls"
+          }
+        },
+        {
+          "title": "World Cup",
+          "count": 76,
+          "displayOrder": 100,
+          "artworkKey": "world_cup",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "World Cup",
+            "grp": "World Cup",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "world_cup"
+          }
+        },
+        {
+          "title": "MLS Package",
+          "count": 149,
+          "displayOrder": 200,
+          "artworkKey": "mls",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MLS Package",
+            "grp": "MLS Package",
+            "primotv_sort_priority": 200,
+            "primotv_logo_key": "mls"
+          }
+        },
+        {
+          "title": "UEFA Champions League",
+          "count": 217,
+          "displayOrder": 250,
+          "artworkKey": "uefa_champions_league",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "UEFA Champions League",
+            "grp": "UEFA Champions League",
+            "primotv_sort_priority": 250,
+            "primotv_logo_key": "uefa_champions_league"
+          }
+        },
+        {
+          "title": "La Liga / Ligue 1 / EPL / Bundesliga / Serie A",
+          "count": 429,
+          "displayOrder": 300,
+          "artworkKey": "european_soccer",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "La Liga / Ligue 1 / EPL / Bundesliga / Serie A",
+            "grp": "La Liga / Ligue 1 / EPL / Bundesliga / Serie A",
+            "primotv_sort_priority": 300,
+            "primotv_logo_key": "european_soccer"
+          }
+        },
+        {
+          "title": "FIFA+ Package",
+          "count": 52,
+          "displayOrder": 350,
+          "artworkKey": "fifa_plus",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "FIFA+ Package",
+            "grp": "FIFA+ Package",
+            "primotv_sort_priority": 350,
+            "primotv_logo_key": "fifa_plus"
+          }
+        },
+        {
+          "title": "Fútbol Live Events",
+          "count": 222,
+          "displayOrder": 900,
+          "artworkKey": "soccer_live_events",
+          "mapping": {
+            "primotv_parent": "Fútbol",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Fútbol Live Events",
+            "grp": "Fútbol Live Events",
+            "primotv_sort_priority": 900,
+            "primotv_logo_key": "soccer_live_events"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Hockey",
+      "count": 220,
+      "displayOrder": 100,
+      "groups": [
+        {
+          "title": "NHL Teams",
+          "count": 32,
+          "displayOrder": 100,
+          "artworkKey": "nhl",
+          "mapping": {
+            "primotv_parent": "Hockey",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NHL Teams",
+            "grp": "NHL Teams",
+            "primotv_sort_priority": 100,
+            "primotv_logo_key": "nhl"
+          }
+        },
+        {
+          "title": "NHL Network/Package",
+          "count": 70,
+          "displayOrder": 200,
+          "artworkKey": "nhl",
+          "mapping": {
+            "primotv_parent": "Hockey",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NHL Network/Package",
+            "grp": "NHL Network/Package",
+            "primotv_sort_priority": 200,
+            "primotv_logo_key": "nhl"
+          }
+        },
+        {
+          "title": "AHL/OHL/WHL/QMJHL",
+          "count": 118,
+          "displayOrder": 300,
+          "artworkKey": "development_hockey",
+          "mapping": {
+            "primotv_parent": "Hockey",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "AHL/OHL/WHL/QMJHL",
+            "grp": "AHL/OHL/WHL/QMJHL",
+            "primotv_sort_priority": 300,
+            "primotv_logo_key": "development_hockey"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Sports",
+      "count": 3127,
+      "displayOrder": 180,
+      "groups": [
+        {
+          "title": "MotoGP",
+          "count": 69,
+          "displayOrder": 180,
+          "artworkKey": "motogp",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MotoGP",
+            "grp": "MotoGP",
+            "primotv_sort_priority": 180,
+            "primotv_logo_key": "motogp"
+          }
+        },
+        {
+          "title": "College Sports",
+          "count": 151,
+          "displayOrder": 250,
+          "artworkKey": "college_sports",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "College Sports",
+            "grp": "College Sports",
+            "primotv_sort_priority": 250,
+            "primotv_logo_key": "college_sports"
+          }
+        },
+        {
+          "title": "Combat/Fighting",
+          "count": 242,
+          "displayOrder": 300,
+          "artworkKey": "combat_fighting",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Combat/Fighting",
+            "grp": "Combat/Fighting",
+            "primotv_sort_priority": 300,
+            "primotv_logo_key": "combat_fighting"
+          }
+        },
+        {
+          "title": "Cricket",
+          "count": 33,
+          "displayOrder": 305,
+          "artworkKey": "cricket",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Cricket",
+            "grp": "Cricket",
+            "primotv_sort_priority": 305,
+            "primotv_logo_key": "cricket"
+          }
+        },
+        {
+          "title": "Tennis",
+          "count": 234,
+          "displayOrder": 310,
+          "artworkKey": "tennis",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Tennis",
+            "grp": "Tennis",
+            "primotv_sort_priority": 310,
+            "primotv_logo_key": "tennis"
+          }
+        },
+        {
+          "title": "Rugby",
+          "count": 130,
+          "displayOrder": 320,
+          "artworkKey": "rugby",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Rugby",
+            "grp": "Rugby",
+            "primotv_sort_priority": 320,
+            "primotv_logo_key": "rugby"
+          }
+        },
+        {
+          "title": "Golf",
+          "count": 63,
+          "displayOrder": 330,
+          "artworkKey": "golf",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Golf",
+            "grp": "Golf",
+            "primotv_sort_priority": 330,
+            "primotv_logo_key": "golf"
+          }
+        },
+        {
+          "title": "AFL / NRL",
+          "count": 64,
+          "displayOrder": 340,
+          "artworkKey": "afl_nrl",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "AFL / NRL",
+            "grp": "AFL / NRL",
+            "primotv_sort_priority": 340,
+            "primotv_logo_key": "afl_nrl"
+          }
+        },
+        {
+          "title": "Racing/Motorsports",
+          "count": 270,
+          "displayOrder": 350,
+          "artworkKey": "racing_motorsports",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Racing/Motorsports",
+            "grp": "Racing/Motorsports",
+            "primotv_sort_priority": 350,
+            "primotv_logo_key": "racing_motorsports"
+          }
+        },
+        {
+          "title": "Other Sports / Live Events",
+          "count": 1871,
+          "displayOrder": 900,
+          "artworkKey": "sports_live_events",
+          "mapping": {
+            "primotv_parent": "Sports",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Other Sports / Live Events",
+            "grp": "Other Sports / Live Events",
+            "primotv_sort_priority": 900,
+            "primotv_logo_key": "sports_live_events"
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "24/7",
+      "count": 3159,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "24/7 ACTION & ADVENTURE VIP",
+          "count": 118,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 ACTION & ADVENTURE VIP",
+            "grp": "24/7 ACTION & ADVENTURE VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 CARTOON VIP",
+          "count": 97,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 CARTOON VIP",
+            "grp": "24/7 CARTOON VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 CLASSIC SHOWS VIP",
+          "count": 108,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 CLASSIC SHOWS VIP",
+            "grp": "24/7 CLASSIC SHOWS VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 COMEDY VIP",
+          "count": 426,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 COMEDY VIP",
+            "grp": "24/7 COMEDY VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 CRIME VIP",
+          "count": 105,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 CRIME VIP",
+            "grp": "24/7 CRIME VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+          "count": 51,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+            "grp": "24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 DRAMA VIP",
+          "count": 408,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 DRAMA VIP",
+            "grp": "24/7 DRAMA VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 KIDS/FAMILY VIP",
+          "count": 86,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 KIDS/FAMILY VIP",
+            "grp": "24/7 KIDS/FAMILY VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 MOVIES & SERIES",
+          "count": 176,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 MOVIES & SERIES",
+            "grp": "24/7 MOVIES & SERIES",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 MOVIES/ACTORS VIP",
+          "count": 168,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 MOVIES/ACTORS VIP",
+            "grp": "24/7 MOVIES/ACTORS VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 ONEPLAY",
+          "count": 125,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 ONEPLAY",
+            "grp": "24/7 ONEPLAY",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 PRIME VIDEO ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+          "count": 101,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 PRIME VIDEO ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+            "grp": "24/7 PRIME VIDEO ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 REALITY VIP",
+          "count": 151,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 REALITY VIP",
+            "grp": "24/7 REALITY VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "24/7 SHOWS VIP",
+          "count": 659,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "24/7 SHOWS VIP",
+            "grp": "24/7 SHOWS VIP",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "Cinemania Hollywood",
+          "count": 61,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Cinemania Hollywood",
+            "grp": "Cinemania Hollywood",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "Cinemania TV Shows",
+          "count": 319,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "24/7",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Cinemania TV Shows",
+            "grp": "Cinemania TV Shows",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "ABC",
+      "count": 277,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "ABC",
+          "count": 277,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "ABC",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "ABC",
+            "grp": "ABC",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Apps",
+      "count": 719,
+      "displayOrder": 500,
+      "groups": [],
+      "subcatalogs": [
+        {
+          "title": "Hulu",
+          "count": 21,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Hulu",
+              "count": 21,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Apps",
+                "primotv_subcatalog": "Hulu",
+                "primotv_curated_group": "Hulu",
+                "grp": "Hulu",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Netflix",
+          "count": 147,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Netflix",
+              "count": 147,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Apps",
+                "primotv_subcatalog": "Netflix",
+                "primotv_curated_group": "Netflix",
+                "grp": "Netflix",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Paramount+",
+          "count": 323,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Paramount+",
+              "count": 323,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Apps",
+                "primotv_subcatalog": "Paramount+",
+                "primotv_curated_group": "Paramount+",
+                "grp": "Paramount+",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Peacock",
+          "count": 98,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Peacock",
+              "count": 98,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Apps",
+                "primotv_subcatalog": "Peacock",
+                "primotv_curated_group": "Peacock",
+                "grp": "Peacock",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Tubi",
+          "count": 130,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Tubi",
+              "count": 130,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Apps",
+                "primotv_subcatalog": "Tubi",
+                "primotv_curated_group": "Tubi",
+                "grp": "Tubi",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CBS",
+      "count": 282,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "CBS",
+          "count": 282,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "CBS",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "CBS",
+            "grp": "CBS",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Christmas",
+      "count": 40,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "Christmas",
+          "count": 40,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Christmas",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Christmas",
+            "grp": "Christmas",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "CW/MY",
+      "count": 123,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "CW/MY",
+          "count": 123,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "CW/MY",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "CW/MY",
+            "grp": "CW/MY",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "FOX",
+      "count": 290,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "FOX",
+          "count": 290,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "FOX",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "FOX",
+            "grp": "FOX",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "FX",
+      "count": 8,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "FX / FXX",
+          "count": 8,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "FX",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "FX / FXX",
+            "grp": "FX / FXX",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "International",
+      "count": 6099,
+      "displayOrder": 500,
+      "groups": [],
+      "subcatalogs": [
+        {
+          "title": "Australia",
+          "count": 159,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "9NOW",
+              "count": 40,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Australia",
+                "primotv_curated_group": "9NOW",
+                "grp": "9NOW",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "AUSTRALIA",
+              "count": 98,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Australia",
+                "primotv_curated_group": "AUSTRALIA",
+                "grp": "AUSTRALIA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "STAN PPV",
+              "count": 21,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Australia",
+                "primotv_curated_group": "STAN PPV",
+                "grp": "STAN PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Canada",
+          "count": 915,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "ENGLISH",
+              "count": 155,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "ENGLISH",
+                "grp": "ENGLISH",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "FOREIGN",
+              "count": 65,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "FOREIGN",
+                "grp": "FOREIGN",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "FRENCH",
+              "count": 73,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "FRENCH",
+                "grp": "FRENCH",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "KIDS",
+              "count": 13,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "KIDS",
+                "grp": "KIDS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "LOCALS",
+              "count": 57,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "LOCALS",
+                "grp": "LOCALS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PRIME RAW ⁶⁰ᶠᵖˢ",
+              "count": 88,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "grp": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SN+ PPV",
+              "count": 85,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "SN+ PPV",
+                "grp": "SN+ PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SOCCER PPV",
+              "count": 167,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "SOCCER PPV",
+                "grp": "SOCCER PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SPORT",
+              "count": 70,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "SPORT",
+                "grp": "SPORT",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SPORTSNET PPV",
+              "count": 30,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "SPORTSNET PPV",
+                "grp": "SPORTSNET PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "STINGRAY",
+              "count": 32,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "STINGRAY",
+                "grp": "STINGRAY",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TSN+ PPV",
+              "count": 80,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Canada",
+                "primotv_curated_group": "TSN+ PPV",
+                "grp": "TSN+ PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Ireland",
+          "count": 92,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "CLUBBER PPV",
+              "count": 20,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Ireland",
+                "primotv_curated_group": "CLUBBER PPV",
+                "grp": "CLUBBER PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "IRELAND",
+              "count": 19,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Ireland",
+                "primotv_curated_group": "IRELAND",
+                "grp": "IRELAND",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "LOI PPV",
+              "count": 15,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Ireland",
+                "primotv_curated_group": "LOI PPV",
+                "grp": "LOI PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NIFL PPV",
+              "count": 8,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Ireland",
+                "primotv_curated_group": "NIFL PPV",
+                "grp": "NIFL PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SETANTA PPV",
+              "count": 30,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Ireland",
+                "primotv_curated_group": "SETANTA PPV",
+                "grp": "SETANTA PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Latin America",
+          "count": 750,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "ARG FANATIZ",
+              "count": 7,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "ARG FANATIZ",
+                "grp": "ARG FANATIZ",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ARG FANATIZ PPV",
+              "count": 24,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "ARG FANATIZ PPV",
+                "grp": "ARG FANATIZ PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ARGENTINA",
+              "count": 114,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "ARGENTINA",
+                "grp": "ARGENTINA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "CHILE",
+              "count": 17,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "CHILE",
+                "grp": "CHILE",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "COLOMBIA",
+              "count": 53,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "COLOMBIA",
+                "grp": "COLOMBIA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "COSTA RICA",
+              "count": 52,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "COSTA RICA",
+                "grp": "COSTA RICA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ECUADOR",
+              "count": 29,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "ECUADOR",
+                "grp": "ECUADOR",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "EL SALVADOR",
+              "count": 9,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "EL SALVADOR",
+                "grp": "EL SALVADOR",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "GENERAL",
+              "count": 235,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "GENERAL",
+                "grp": "GENERAL",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "GUATEMALA",
+              "count": 13,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "GUATEMALA",
+                "grp": "GUATEMALA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "HONDURAS",
+              "count": 17,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "HONDURAS",
+                "grp": "HONDURAS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NICARAGUA",
+              "count": 7,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "NICARAGUA",
+                "grp": "NICARAGUA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PANAMA",
+              "count": 6,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "PANAMA",
+                "grp": "PANAMA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PELICULA",
+              "count": 37,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "PELICULA",
+                "grp": "PELICULA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PERU",
+              "count": 14,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "PERU",
+                "grp": "PERU",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PUERTO RICO",
+              "count": 38,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "PUERTO RICO",
+                "grp": "PUERTO RICO",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "R. DOMINICANA",
+              "count": 40,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "R. DOMINICANA",
+                "grp": "R. DOMINICANA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "URUGUAY",
+              "count": 8,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "URUGUAY",
+                "grp": "URUGUAY",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "VENEZUELA",
+              "count": 30,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Latin America",
+                "primotv_curated_group": "VENEZUELA",
+                "grp": "VENEZUELA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "New Zealand",
+          "count": 60,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "NEW ZEALAND",
+              "count": 50,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "New Zealand",
+                "primotv_curated_group": "NEW ZEALAND",
+                "grp": "NEW ZEALAND",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SKY SPORT",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "New Zealand",
+                "primotv_curated_group": "SKY SPORT",
+                "grp": "SKY SPORT",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Spain",
+          "count": 2030,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "24/7 ESPAÑA",
+              "count": 47,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "24/7 ESPAÑA",
+                "grp": "24/7 ESPAÑA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ATRES PLAYER",
+              "count": 19,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "ATRES PLAYER",
+                "grp": "ATRES PLAYER",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "AVATEL",
+              "count": 133,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "AVATEL",
+                "grp": "AVATEL",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "CABEL TV",
+              "count": 106,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "CABEL TV",
+                "grp": "CABEL TV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "CABEL TV SPORTS",
+              "count": 1,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "CABEL TV SPORTS",
+                "grp": "CABEL TV SPORTS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DAZN ACB PPV",
+              "count": 9,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "DAZN ACB PPV",
+                "grp": "DAZN ACB PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DAZN ESPAÑA",
+              "count": 24,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "DAZN ESPAÑA",
+                "grp": "DAZN ESPAÑA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DAZN EXCLUSIVE ᴴᴰ/RAW",
+              "count": 2,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "DAZN EXCLUSIVE ᴴᴰ/RAW",
+                "grp": "DAZN EXCLUSIVE ᴴᴰ/RAW",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DAZN PPV",
+              "count": 78,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "DAZN PPV",
+                "grp": "DAZN PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DIGI",
+              "count": 108,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "DIGI",
+                "grp": "DIGI",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DOCUMENTALES",
+              "count": 35,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "DOCUMENTALES",
+                "grp": "DOCUMENTALES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ESTILO DE VIDA",
+              "count": 8,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "ESTILO DE VIDA",
+                "grp": "ESTILO DE VIDA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "INFANTIL",
+              "count": 33,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "INFANTIL",
+                "grp": "INFANTIL",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "LOCALES",
+              "count": 26,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "LOCALES",
+                "grp": "LOCALES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "M+ CINE",
+              "count": 105,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "M+ CINE",
+                "grp": "M+ CINE",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "M+ LIGA DE CAMPEONES",
+              "count": 94,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "M+ LIGA DE CAMPEONES",
+                "grp": "M+ LIGA DE CAMPEONES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "M+ VAMOS",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "M+ VAMOS",
+                "grp": "M+ VAMOS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MAX PPV",
+              "count": 165,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "MAX PPV",
+                "grp": "MAX PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOVISTAR DEPORTES",
+              "count": 27,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "MOVISTAR DEPORTES",
+                "grp": "MOVISTAR DEPORTES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOVISTAR PLUS+",
+              "count": 19,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "MOVISTAR PLUS+",
+                "grp": "MOVISTAR PLUS+",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOVISTAR+ ESTRENOS",
+              "count": 20,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "MOVISTAR+ ESTRENOS",
+                "grp": "MOVISTAR+ ESTRENOS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOVISTAR+ SERIES",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "MOVISTAR+ SERIES",
+                "grp": "MOVISTAR+ SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MUSICA",
+              "count": 38,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "MUSICA",
+                "grp": "MUSICA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NETFLIX ORIGINALS",
+              "count": 27,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "NETFLIX ORIGINALS",
+                "grp": "NETFLIX ORIGINALS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "OTROS DEPORTES",
+              "count": 58,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "OTROS DEPORTES",
+                "grp": "OTROS DEPORTES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PRIME RAW ⁶⁰ᶠᵖˢ",
+              "count": 38,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "grp": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "RAKUTEN TV",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "RAKUTEN TV",
+                "grp": "RAKUTEN TV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "RFEF PPV",
+              "count": 4,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "RFEF PPV",
+                "grp": "RFEF PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SOCCER PPV",
+              "count": 162,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "SOCCER PPV",
+                "grp": "SOCCER PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SPAIN VIP",
+              "count": 165,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "SPAIN VIP",
+                "grp": "SPAIN VIP",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TDT ESPAÑA",
+              "count": 103,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TDT ESPAÑA",
+                "grp": "TDT ESPAÑA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TDT PREMIUM",
+              "count": 27,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TDT PREMIUM",
+                "grp": "TDT PREMIUM",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TDT SERIES",
+              "count": 32,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TDT SERIES",
+                "grp": "TDT SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TELEFÓNICA",
+              "count": 18,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TELEFÓNICA",
+                "grp": "TELEFÓNICA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TIVIFY",
+              "count": 62,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TIVIFY",
+                "grp": "TIVIFY",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TIVIFY GOLD",
+              "count": 46,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TIVIFY GOLD",
+                "grp": "TIVIFY GOLD",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TOROS",
+              "count": 11,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "TOROS",
+                "grp": "TOROS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "VIX PPV",
+              "count": 148,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "Spain",
+                "primotv_curated_group": "VIX PPV",
+                "grp": "VIX PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "United Kingdom",
+          "count": 2093,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "24/7 MOVIES & SERIES",
+              "count": 320,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "24/7 MOVIES & SERIES",
+                "grp": "24/7 MOVIES & SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "AMAZON PRIME +",
+              "count": 52,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "AMAZON PRIME +",
+                "grp": "AMAZON PRIME +",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "APPLE TV+ SERIES",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "APPLE TV+ SERIES",
+                "grp": "APPLE TV+ SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "BBCI",
+              "count": 116,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "BBCI",
+                "grp": "BBCI",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "BBCIPLAYER SERIES",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "BBCIPLAYER SERIES",
+                "grp": "BBCIPLAYER SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "CHAMPIONSHIP",
+              "count": 25,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "CHAMPIONSHIP",
+                "grp": "CHAMPIONSHIP",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "CUP GAMES & INTERNATIONAL",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "CUP GAMES & INTERNATIONAL",
+                "grp": "CUP GAMES & INTERNATIONAL",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DAZN PPV",
+              "count": 88,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "DAZN PPV",
+                "grp": "DAZN PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DISCOVERY +",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "DISCOVERY +",
+                "grp": "DISCOVERY +",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DOCUMENTARY",
+              "count": 35,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "DOCUMENTARY",
+                "grp": "DOCUMENTARY",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "DOCUMENTARY HEVC",
+              "count": 19,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "DOCUMENTARY HEVC",
+                "grp": "DOCUMENTARY HEVC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ENTERTAINMENT",
+              "count": 81,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "ENTERTAINMENT",
+                "grp": "ENTERTAINMENT",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ENTERTAINMENT HEVC",
+              "count": 19,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "ENTERTAINMENT HEVC",
+                "grp": "ENTERTAINMENT HEVC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "EUROSPORT XTRA",
+              "count": 16,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "EUROSPORT XTRA",
+                "grp": "EUROSPORT XTRA",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "FA PLAYER",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "FA PLAYER",
+                "grp": "FA PLAYER",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "GAA GO PPV",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "GAA GO PPV",
+                "grp": "GAA GO PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "GENERAL",
+              "count": 161,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "GENERAL",
+                "grp": "GENERAL",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "GENERAL HEVC",
+              "count": 24,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "GENERAL HEVC",
+                "grp": "GENERAL HEVC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "HUB PREMIER PPV",
+              "count": 13,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "HUB PREMIER PPV",
+                "grp": "HUB PREMIER PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ITV X",
+              "count": 14,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "ITV X",
+                "grp": "ITV X",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "KIDS",
+              "count": 31,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "KIDS",
+                "grp": "KIDS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "KIDS HEVC",
+              "count": 11,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "KIDS HEVC",
+                "grp": "KIDS HEVC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "LEAGUE ONE",
+              "count": 24,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "LEAGUE ONE",
+                "grp": "LEAGUE ONE",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "LEAGUE TWO",
+              "count": 25,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "LEAGUE TWO",
+                "grp": "LEAGUE TWO",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MATCHROOM PPV",
+              "count": 42,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MATCHROOM PPV",
+                "grp": "MATCHROOM PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MAX PPV",
+              "count": 72,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MAX PPV",
+                "grp": "MAX PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MC VIDEO ᴴᴰ",
+              "count": 25,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MC VIDEO ᴴᴰ",
+                "grp": "MC VIDEO ᴴᴰ",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOLA PPV",
+              "count": 13,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MOLA PPV",
+                "grp": "MOLA PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MONOMAX PPV",
+              "count": 20,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MONOMAX PPV",
+                "grp": "MONOMAX PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOVIES",
+              "count": 68,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MOVIES",
+                "grp": "MOVIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MOVIES HEVC",
+              "count": 25,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MOVIES HEVC",
+                "grp": "MOVIES HEVC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "MUSIC",
+              "count": 43,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "MUSIC",
+                "grp": "MUSIC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NATIONAL LEAGUE",
+              "count": 38,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "NATIONAL LEAGUE",
+                "grp": "NATIONAL LEAGUE",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NETFLIX ORIGINAL",
+              "count": 27,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "NETFLIX ORIGINAL",
+                "grp": "NETFLIX ORIGINAL",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NETFLIX PPV",
+              "count": 11,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "NETFLIX PPV",
+                "grp": "NETFLIX PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NEWS",
+              "count": 39,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "NEWS",
+                "grp": "NEWS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "NOW TV",
+              "count": 135,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "NOW TV",
+                "grp": "NOW TV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PAY PER VIEW PPV",
+              "count": 16,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "PAY PER VIEW PPV",
+                "grp": "PAY PER VIEW PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PDC BOARD PPV",
+              "count": 6,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "PDC BOARD PPV",
+                "grp": "PDC BOARD PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PPV EVENTS",
+              "count": 1,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "PPV EVENTS",
+                "grp": "PPV EVENTS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PRIME RAW ⁶⁰ᶠᵖˢ",
+              "count": 108,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "grp": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "PRIME VIDEO SERIES",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "PRIME VIDEO SERIES",
+                "grp": "PRIME VIDEO SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "REALITY SHOW TV",
+              "count": 19,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "REALITY SHOW TV",
+                "grp": "REALITY SHOW TV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SKY SPORT+",
+              "count": 40,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SKY SPORT+",
+                "grp": "SKY SPORT+",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SKY STORE",
+              "count": 32,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SKY STORE",
+                "grp": "SKY STORE",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SKYMIX DOCS",
+              "count": 16,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SKYMIX DOCS",
+                "grp": "SKYMIX DOCS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SKYMIX SERIES",
+              "count": 17,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SKYMIX SERIES",
+                "grp": "SKYMIX SERIES",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SPORTS",
+              "count": 3,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SPORTS",
+                "grp": "SPORTS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SPORTS HEVC",
+              "count": 1,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SPORTS HEVC",
+                "grp": "SPORTS HEVC",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "SUPER LEAGUE+ PPV",
+              "count": 6,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "SUPER LEAGUE+ PPV",
+                "grp": "SUPER LEAGUE+ PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "TT RACE PPV",
+              "count": 5,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "TT RACE PPV",
+                "grp": "TT RACE PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ULSTER GAA PPV",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "ULSTER GAA PPV",
+                "grp": "ULSTER GAA PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "ULTIMATE POOL PPV",
+              "count": 11,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "ULTIMATE POOL PPV",
+                "grp": "ULTIMATE POOL PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "VIAPLAY PPV",
+              "count": 54,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "VIAPLAY PPV",
+                "grp": "VIAPLAY PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "VOLLEY BALL WORLD PPV",
+              "count": 31,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "VOLLEY BALL WORLD PPV",
+                "grp": "VOLLEY BALL WORLD PPV",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            },
+            {
+              "title": "WORLD SPORTS",
+              "count": 5,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "International",
+                "primotv_subcatalog": "United Kingdom",
+                "primotv_curated_group": "WORLD SPORTS",
+                "grp": "WORLD SPORTS",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LifeMark",
+      "count": 15,
+      "displayOrder": 500,
+      "groups": [],
+      "subcatalogs": [
+        {
+          "title": "Hallmark",
+          "count": 5,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Hallmark",
+              "count": 5,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "LifeMark",
+                "primotv_subcatalog": "Hallmark",
+                "primotv_curated_group": "Hallmark",
+                "grp": "Hallmark",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Lifetime",
+          "count": 10,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Lifetime",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "LifeMark",
+                "primotv_subcatalog": "Lifetime",
+                "primotv_curated_group": "Lifetime",
+                "grp": "Lifetime",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mangia",
+      "count": 17,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "Food & Cooking",
+          "count": 17,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Mangia",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Food & Cooking",
+            "grp": "Food & Cooking",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Mexico",
+      "count": 1750,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "MEXICO",
+          "count": 1467,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Mexico",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "MEXICO",
+            "grp": "MEXICO",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "VIX",
+          "count": 88,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Mexico",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "VIX",
+            "grp": "VIX",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "VIX MEXICO",
+          "count": 145,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Mexico",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "VIX MEXICO",
+            "grp": "VIX MEXICO",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "VIX PPV MEXICO",
+          "count": 50,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Mexico",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "VIX PPV MEXICO",
+            "grp": "VIX PPV MEXICO",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Music",
+      "count": 146,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "Music",
+          "count": 33,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Music",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Music",
+            "grp": "Music",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "Music Concerts",
+          "count": 113,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Music",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Music Concerts",
+            "grp": "Music Concerts",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "NBC",
+      "count": 302,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "NBC",
+          "count": 302,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "NBC",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "NBC",
+            "grp": "NBC",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "News",
+      "count": 110,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "News",
+          "count": 110,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "News",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "News",
+            "grp": "News",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Other US Cable / Entertainment",
+      "count": 777,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "Other US Cable / Entertainment",
+          "count": 777,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Other US Cable / Entertainment",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Other US Cable / Entertainment",
+            "grp": "Other US Cable / Entertainment",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "PBS",
+      "count": 80,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "PBS",
+          "count": 80,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "PBS",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "PBS",
+            "grp": "PBS",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Premiums",
+      "count": 84,
+      "displayOrder": 500,
+      "groups": [],
+      "subcatalogs": [
+        {
+          "title": "Cinemax",
+          "count": 10,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Cinemax",
+              "count": 10,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Premiums",
+                "primotv_subcatalog": "Cinemax",
+                "primotv_curated_group": "Cinemax",
+                "grp": "Cinemax",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "HBO",
+          "count": 35,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "HBO",
+              "count": 35,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Premiums",
+                "primotv_subcatalog": "HBO",
+                "primotv_curated_group": "HBO",
+                "grp": "HBO",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Showtime",
+          "count": 12,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Showtime",
+              "count": 12,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Premiums",
+                "primotv_subcatalog": "Showtime",
+                "primotv_curated_group": "Showtime",
+                "grp": "Showtime",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        },
+        {
+          "title": "Starz",
+          "count": 27,
+          "displayOrder": 500,
+          "groups": [
+            {
+              "title": "Starz",
+              "count": 27,
+              "displayOrder": 500,
+              "artworkKey": null,
+              "mapping": {
+                "primotv_parent": "Premiums",
+                "primotv_subcatalog": "Starz",
+                "primotv_curated_group": "Starz",
+                "grp": "Starz",
+                "primotv_sort_priority": 500,
+                "primotv_logo_key": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "UniMundo",
+      "count": 95,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "Telemundo / Univision",
+          "count": 95,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "UniMundo",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "Telemundo / Univision",
+            "grp": "Telemundo / Univision",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    },
+    {
+      "title": "Vibes",
+      "count": 47,
+      "displayOrder": 500,
+      "groups": [
+        {
+          "title": "4K RELAX 1920P",
+          "count": 21,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Vibes",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "4K RELAX 1920P",
+            "grp": "4K RELAX 1920P",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        },
+        {
+          "title": "4K RELAX UHD 3840P",
+          "count": 26,
+          "displayOrder": 500,
+          "artworkKey": null,
+          "mapping": {
+            "primotv_parent": "Vibes",
+            "primotv_subcatalog": null,
+            "primotv_curated_group": "4K RELAX UHD 3840P",
+            "grp": "4K RELAX UHD 3840P",
+            "primotv_sort_priority": 500,
+            "primotv_logo_key": null
+          }
+        }
+      ],
+      "subcatalogs": []
+    }
+  ]
+}
