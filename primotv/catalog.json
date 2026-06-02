@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "2026.06.01",
-  "generatedAt": "2026-06-02T00:59:10.414Z",
+  "generatedAt": "2026-06-02T01:33:54.810Z",
   "playlistId": 2,
   "catalogs": [
     {
@@ -18,6 +18,7 @@
             "primotv_parent": "ESPN",
             "primotv_subcatalog": null,
             "primotv_curated_group": "ESPN",
+            "original_grp": "US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
             "grp": "ESPN",
             "primotv_sort_priority": 10,
             "primotv_logo_key": "espn"
@@ -40,6 +41,7 @@
             "primotv_parent": "Baseball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MLB Teams",
+            "original_grp": "US| MLB PACKAGE",
             "grp": "MLB Teams",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "mlb"
@@ -54,6 +56,7 @@
             "primotv_parent": "Baseball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MLB Network/Package",
+            "original_grp": "US| MLB PACKAGE",
             "grp": "MLB Network/Package",
             "primotv_sort_priority": 200,
             "primotv_logo_key": "mlb"
@@ -68,6 +71,7 @@
             "primotv_parent": "Baseball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MiLB Package",
+            "original_grp": "US| MILB TV PPV",
             "grp": "MiLB Package",
             "primotv_sort_priority": 300,
             "primotv_logo_key": "milb"
@@ -82,6 +86,7 @@
             "primotv_parent": "Baseball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Baseball Events",
+            "original_grp": "US| SPORTS NETWORK",
             "grp": "Baseball Events",
             "primotv_sort_priority": 400,
             "primotv_logo_key": "baseball_events"
@@ -104,6 +109,7 @@
             "primotv_parent": "Basketball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NBA Teams",
+            "original_grp": "US| NBA PACKAGE",
             "grp": "NBA Teams",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "nba"
@@ -118,6 +124,7 @@
             "primotv_parent": "Basketball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NBA Network/Package",
+            "original_grp": "US| NBA NETWORK VIP",
             "grp": "NBA Network/Package",
             "primotv_sort_priority": 200,
             "primotv_logo_key": "nba"
@@ -132,6 +139,7 @@
             "primotv_parent": "Basketball",
             "primotv_subcatalog": null,
             "primotv_curated_group": "WNBA Package",
+            "original_grp": "US| WNBA PACKAGE",
             "grp": "WNBA Package",
             "primotv_sort_priority": 260,
             "primotv_logo_key": "wnba"
@@ -154,6 +162,7 @@
             "primotv_parent": "F1",
             "primotv_subcatalog": null,
             "primotv_curated_group": "F1",
+            "original_grp": "4K UHD 3840P",
             "grp": "F1",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "f1"
@@ -176,6 +185,7 @@
             "primotv_parent": "Football",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NFL Teams",
+            "original_grp": "US| NFL PACKAGE",
             "grp": "NFL Teams",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "nfl"
@@ -190,6 +200,7 @@
             "primotv_parent": "Football",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NFL Network/Package",
+            "original_grp": "US| NFL NETWORK HULU",
             "grp": "NFL Network/Package",
             "primotv_sort_priority": 200,
             "primotv_logo_key": "nfl"
@@ -204,6 +215,7 @@
             "primotv_parent": "Football",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NCAAF Package",
+            "original_grp": "US| NCAAF PACKAGE",
             "grp": "NCAAF Package",
             "primotv_sort_priority": 300,
             "primotv_logo_key": "ncaaf"
@@ -218,6 +230,7 @@
             "primotv_parent": "Football",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NFHS / High School Football",
+            "original_grp": "US| NFHS PPV",
             "grp": "NFHS / High School Football",
             "primotv_sort_priority": 350,
             "primotv_logo_key": "high_school_football"
@@ -240,6 +253,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MLS Teams",
+            "original_grp": "US| MLS NETWORK",
             "grp": "MLS Teams",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "mls"
@@ -254,6 +268,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "World Cup",
+            "original_grp": "WORLD CUP 2026 REPLAY",
             "grp": "World Cup",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "world_cup"
@@ -268,6 +283,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MLS Package",
+            "original_grp": "US| MLS NETWORK",
             "grp": "MLS Package",
             "primotv_sort_priority": 200,
             "primotv_logo_key": "mls"
@@ -282,6 +298,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "UEFA Champions League",
+            "original_grp": "US| PRIME",
             "grp": "UEFA Champions League",
             "primotv_sort_priority": 250,
             "primotv_logo_key": "uefa_champions_league"
@@ -296,6 +313,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "La Liga / Ligue 1 / EPL / Bundesliga / Serie A",
+            "original_grp": "4K UHD 3840P",
             "grp": "La Liga / Ligue 1 / EPL / Bundesliga / Serie A",
             "primotv_sort_priority": 300,
             "primotv_logo_key": "european_soccer"
@@ -310,6 +328,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "FIFA+ Package",
+            "original_grp": "US| FIFA+ PPV",
             "grp": "FIFA+ Package",
             "primotv_sort_priority": 350,
             "primotv_logo_key": "fifa_plus"
@@ -324,6 +343,7 @@
             "primotv_parent": "Fútbol",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Fútbol Live Events",
+            "original_grp": "US| SOCCER PPV",
             "grp": "Fútbol Live Events",
             "primotv_sort_priority": 900,
             "primotv_logo_key": "soccer_live_events"
@@ -346,6 +366,7 @@
             "primotv_parent": "Hockey",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NHL Teams",
+            "original_grp": "US| NHL PACKAGE",
             "grp": "NHL Teams",
             "primotv_sort_priority": 100,
             "primotv_logo_key": "nhl"
@@ -360,6 +381,7 @@
             "primotv_parent": "Hockey",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NHL Network/Package",
+            "original_grp": "US| NHL PACKAGE",
             "grp": "NHL Network/Package",
             "primotv_sort_priority": 200,
             "primotv_logo_key": "nhl"
@@ -374,6 +396,7 @@
             "primotv_parent": "Hockey",
             "primotv_subcatalog": null,
             "primotv_curated_group": "AHL/OHL/WHL/QMJHL",
+            "original_grp": "CA| OHL PPV",
             "grp": "AHL/OHL/WHL/QMJHL",
             "primotv_sort_priority": 300,
             "primotv_logo_key": "development_hockey"
@@ -396,6 +419,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MotoGP",
+            "original_grp": "WORLD LIVE SPORTS",
             "grp": "MotoGP",
             "primotv_sort_priority": 180,
             "primotv_logo_key": "motogp"
@@ -410,6 +434,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "College Sports",
+            "original_grp": "US| B1G+ PPV",
             "grp": "College Sports",
             "primotv_sort_priority": 250,
             "primotv_logo_key": "college_sports"
@@ -424,6 +449,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Combat/Fighting",
+            "original_grp": "US| SPORTS NETWORK",
             "grp": "Combat/Fighting",
             "primotv_sort_priority": 300,
             "primotv_logo_key": "combat_fighting"
@@ -438,6 +464,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Cricket",
+            "original_grp": "US| SPORTS NETWORK",
             "grp": "Cricket",
             "primotv_sort_priority": 305,
             "primotv_logo_key": "cricket"
@@ -452,6 +479,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Tennis",
+            "original_grp": "US| SPORTS NETWORK",
             "grp": "Tennis",
             "primotv_sort_priority": 310,
             "primotv_logo_key": "tennis"
@@ -466,6 +494,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Rugby",
+            "original_grp": "US| PRIME",
             "grp": "Rugby",
             "primotv_sort_priority": 320,
             "primotv_logo_key": "rugby"
@@ -480,6 +509,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Golf",
+            "original_grp": "US| SPORTS NETWORK",
             "grp": "Golf",
             "primotv_sort_priority": 330,
             "primotv_logo_key": "golf"
@@ -494,6 +524,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "AFL / NRL",
+            "original_grp": "US| SOCCER PPV",
             "grp": "AFL / NRL",
             "primotv_sort_priority": 340,
             "primotv_logo_key": "afl_nrl"
@@ -508,6 +539,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Racing/Motorsports",
+            "original_grp": "US| SOCCER PPV",
             "grp": "Racing/Motorsports",
             "primotv_sort_priority": 350,
             "primotv_logo_key": "racing_motorsports"
@@ -522,6 +554,7 @@
             "primotv_parent": "Sports",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Other Sports / Live Events",
+            "original_grp": "BEIN SPORTS MAX ⁸ᴷ",
             "grp": "Other Sports / Live Events",
             "primotv_sort_priority": 900,
             "primotv_logo_key": "sports_live_events"
@@ -544,6 +577,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 ACTION & ADVENTURE VIP",
+            "original_grp": "24/7 ACTION & ADVENTURE VIP",
             "grp": "24/7 ACTION & ADVENTURE VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -558,6 +592,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 CARTOON VIP",
+            "original_grp": "24/7 CARTOON VIP",
             "grp": "24/7 CARTOON VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -572,6 +607,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 CLASSIC SHOWS VIP",
+            "original_grp": "24/7 CLASSIC SHOWS VIP",
             "grp": "24/7 CLASSIC SHOWS VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -586,6 +622,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 COMEDY VIP",
+            "original_grp": "24/7 COMEDY VIP",
             "grp": "24/7 COMEDY VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -600,6 +637,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 CRIME VIP",
+            "original_grp": "24/7 CRIME VIP",
             "grp": "24/7 CRIME VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -614,6 +652,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+            "original_grp": "24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
             "grp": "24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -628,6 +667,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 DRAMA VIP",
+            "original_grp": "24/7 DRAMA VIP",
             "grp": "24/7 DRAMA VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -642,6 +682,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 KIDS/FAMILY VIP",
+            "original_grp": "24/7 KIDS/FAMILY VIP",
             "grp": "24/7 KIDS/FAMILY VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -656,6 +697,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 MOVIES & SERIES",
+            "original_grp": "24/7 MOVIES & SERIES",
             "grp": "24/7 MOVIES & SERIES",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -670,6 +712,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 MOVIES/ACTORS VIP",
+            "original_grp": "24/7 MOVIES/ACTORS VIP",
             "grp": "24/7 MOVIES/ACTORS VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -684,6 +727,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 ONEPLAY",
+            "original_grp": "24/7 ONEPLAY",
             "grp": "24/7 ONEPLAY",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -698,6 +742,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 PRIME VIDEO ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
+            "original_grp": "24/7 PRIME VIDEO ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
             "grp": "24/7 PRIME VIDEO ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -712,6 +757,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 REALITY VIP",
+            "original_grp": "24/7 REALITY VIP",
             "grp": "24/7 REALITY VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -726,6 +772,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "24/7 SHOWS VIP",
+            "original_grp": "24/7 SHOWS VIP",
             "grp": "24/7 SHOWS VIP",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -740,6 +787,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Cinemania Hollywood",
+            "original_grp": "US| CINEMANIA HOLLYWOOD",
             "grp": "Cinemania Hollywood",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -754,6 +802,7 @@
             "primotv_parent": "24/7",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Cinemania TV Shows",
+            "original_grp": "US| CINEMANIA TV SHOWS",
             "grp": "Cinemania TV Shows",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -776,6 +825,7 @@
             "primotv_parent": "ABC",
             "primotv_subcatalog": null,
             "primotv_curated_group": "ABC",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "ABC",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -804,6 +854,7 @@
                 "primotv_parent": "Apps",
                 "primotv_subcatalog": "Hulu",
                 "primotv_curated_group": "Hulu",
+                "original_grp": "US| HULU NETWORK",
                 "grp": "Hulu",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -825,6 +876,7 @@
                 "primotv_parent": "Apps",
                 "primotv_subcatalog": "Netflix",
                 "primotv_curated_group": "Netflix",
+                "original_grp": "US| NETFLIX PPV",
                 "grp": "Netflix",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -846,6 +898,7 @@
                 "primotv_parent": "Apps",
                 "primotv_subcatalog": "Paramount+",
                 "primotv_curated_group": "Paramount+",
+                "original_grp": "US| PARAMOUNT+ PPV",
                 "grp": "Paramount+",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -867,6 +920,7 @@
                 "primotv_parent": "Apps",
                 "primotv_subcatalog": "Peacock",
                 "primotv_curated_group": "Peacock",
+                "original_grp": "US| PEACOCK PPV",
                 "grp": "Peacock",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -888,6 +942,7 @@
                 "primotv_parent": "Apps",
                 "primotv_subcatalog": "Tubi",
                 "primotv_curated_group": "Tubi",
+                "original_grp": "US| TUBI ᴿᴬᵂ",
                 "grp": "Tubi",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -911,6 +966,7 @@
             "primotv_parent": "CBS",
             "primotv_subcatalog": null,
             "primotv_curated_group": "CBS",
+            "original_grp": "US| PRIME",
             "grp": "CBS",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -933,6 +989,7 @@
             "primotv_parent": "Christmas",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Christmas",
+            "original_grp": "Ungrouped",
             "grp": "Christmas",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -955,6 +1012,7 @@
             "primotv_parent": "CW/MY",
             "primotv_subcatalog": null,
             "primotv_curated_group": "CW/MY",
+            "original_grp": "US| PRIME",
             "grp": "CW/MY",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -977,6 +1035,7 @@
             "primotv_parent": "FOX",
             "primotv_subcatalog": null,
             "primotv_curated_group": "FOX",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "FOX",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -999,6 +1058,7 @@
             "primotv_parent": "FX",
             "primotv_subcatalog": null,
             "primotv_curated_group": "FX / FXX",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "FX / FXX",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -1027,6 +1087,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Australia",
                 "primotv_curated_group": "9NOW",
+                "original_grp": "AU| 9NOW ᴿᴬᵂ",
                 "grp": "9NOW",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1041,6 +1102,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Australia",
                 "primotv_curated_group": "AUSTRALIA",
+                "original_grp": "AU| AUSTRALIA",
                 "grp": "AUSTRALIA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1055,6 +1117,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Australia",
                 "primotv_curated_group": "STAN PPV",
+                "original_grp": "AU| STAN PPV",
                 "grp": "STAN PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1076,6 +1139,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "ENGLISH",
+                "original_grp": "CA| ENGLISH",
                 "grp": "ENGLISH",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1090,6 +1154,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "FOREIGN",
+                "original_grp": "CA| FOREIGN",
                 "grp": "FOREIGN",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1104,6 +1169,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "FRENCH",
+                "original_grp": "CA| FRENCH",
                 "grp": "FRENCH",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1118,6 +1184,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "KIDS",
+                "original_grp": "CA| KIDS",
                 "grp": "KIDS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1132,6 +1199,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "LOCALS",
+                "original_grp": "CA| LOCALS",
                 "grp": "LOCALS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1146,6 +1214,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "original_grp": "CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
                 "grp": "PRIME RAW ⁶⁰ᶠᵖˢ",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1160,6 +1229,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "SN+ PPV",
+                "original_grp": "CA| SN+ PPV",
                 "grp": "SN+ PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1174,6 +1244,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "SOCCER PPV",
+                "original_grp": "CA| SOCCER PPV",
                 "grp": "SOCCER PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1188,6 +1259,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "SPORT",
+                "original_grp": "CA| SPORT",
                 "grp": "SPORT",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1202,6 +1274,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "SPORTSNET PPV",
+                "original_grp": "CA| SPORTSNET PPV",
                 "grp": "SPORTSNET PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1216,6 +1289,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "STINGRAY",
+                "original_grp": "CA| STINGRAY",
                 "grp": "STINGRAY",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1230,6 +1304,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Canada",
                 "primotv_curated_group": "TSN+ PPV",
+                "original_grp": "CA| TSN+ PPV",
                 "grp": "TSN+ PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1251,6 +1326,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Ireland",
                 "primotv_curated_group": "CLUBBER PPV",
+                "original_grp": "IR| CLUBBER PPV",
                 "grp": "CLUBBER PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1265,6 +1341,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Ireland",
                 "primotv_curated_group": "IRELAND",
+                "original_grp": "IR| IRELAND",
                 "grp": "IRELAND",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1279,6 +1356,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Ireland",
                 "primotv_curated_group": "LOI PPV",
+                "original_grp": "IR| LOI PPV",
                 "grp": "LOI PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1293,6 +1371,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Ireland",
                 "primotv_curated_group": "NIFL PPV",
+                "original_grp": "IR| NIFL PPV",
                 "grp": "NIFL PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1307,6 +1386,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Ireland",
                 "primotv_curated_group": "SETANTA PPV",
+                "original_grp": "IR| SETANTA PPV",
                 "grp": "SETANTA PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1328,6 +1408,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "ARG FANATIZ",
+                "original_grp": "LAT| ARG FANATIZ ᴿᴬᵂ",
                 "grp": "ARG FANATIZ",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1342,6 +1423,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "ARG FANATIZ PPV",
+                "original_grp": "LAT| ARG FANATIZ PPV",
                 "grp": "ARG FANATIZ PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1356,6 +1438,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "ARGENTINA",
+                "original_grp": "LAT| ARGENTINA",
                 "grp": "ARGENTINA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1370,6 +1453,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "CHILE",
+                "original_grp": "LAT| CHILE",
                 "grp": "CHILE",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1384,6 +1468,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "COLOMBIA",
+                "original_grp": "LAT| COLOMBIA",
                 "grp": "COLOMBIA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1398,6 +1483,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "COSTA RICA",
+                "original_grp": "LAT| COSTA RICA",
                 "grp": "COSTA RICA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1412,6 +1498,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "ECUADOR",
+                "original_grp": "LAT| ECUADOR",
                 "grp": "ECUADOR",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1426,6 +1513,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "EL SALVADOR",
+                "original_grp": "LAT| EL SALVADOR",
                 "grp": "EL SALVADOR",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1440,6 +1528,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "GENERAL",
+                "original_grp": "LAT| GENERAL",
                 "grp": "GENERAL",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1454,6 +1543,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "GUATEMALA",
+                "original_grp": "LAT| GUATEMALA",
                 "grp": "GUATEMALA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1468,6 +1558,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "HONDURAS",
+                "original_grp": "LAT| HONDURAS",
                 "grp": "HONDURAS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1482,6 +1573,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "NICARAGUA",
+                "original_grp": "LAT| NICARAGUA",
                 "grp": "NICARAGUA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1496,6 +1588,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "PANAMA",
+                "original_grp": "LAT| PANAMA",
                 "grp": "PANAMA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1510,6 +1603,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "PELICULA",
+                "original_grp": "LAT| PELICULA",
                 "grp": "PELICULA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1524,6 +1618,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "PERU",
+                "original_grp": "LAT| PERU",
                 "grp": "PERU",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1538,6 +1633,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "PUERTO RICO",
+                "original_grp": "LAT| PUERTO RICO",
                 "grp": "PUERTO RICO",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1552,6 +1648,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "R. DOMINICANA",
+                "original_grp": "LAT| R. DOMINICANA",
                 "grp": "R. DOMINICANA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1566,6 +1663,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "URUGUAY",
+                "original_grp": "LAT| URUGUAY",
                 "grp": "URUGUAY",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1580,6 +1678,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Latin America",
                 "primotv_curated_group": "VENEZUELA",
+                "original_grp": "LAT| VENEZUELA",
                 "grp": "VENEZUELA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1601,6 +1700,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "New Zealand",
                 "primotv_curated_group": "NEW ZEALAND",
+                "original_grp": "NZ| NEW ZEALAND",
                 "grp": "NEW ZEALAND",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1615,6 +1715,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "New Zealand",
                 "primotv_curated_group": "SKY SPORT",
+                "original_grp": "NZ| SKY SPORT ᴿᴬᵂ",
                 "grp": "SKY SPORT",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1636,6 +1737,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "24/7 ESPAÑA",
+                "original_grp": "ES| 24/7 ESPAÑA",
                 "grp": "24/7 ESPAÑA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1650,6 +1752,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "ATRES PLAYER",
+                "original_grp": "ES| ATRES PLAYER ᴿᴬᵂ",
                 "grp": "ATRES PLAYER",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1664,6 +1767,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "AVATEL",
+                "original_grp": "ES| AVATEL ᴿᴬᵂ",
                 "grp": "AVATEL",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1678,6 +1782,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "CABEL TV",
+                "original_grp": "ES| CABEL TV ᴿᴬᵂ",
                 "grp": "CABEL TV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1692,6 +1797,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "CABEL TV SPORTS",
+                "original_grp": "ES| CABEL TV SPORTS ᴿᴬᵂ",
                 "grp": "CABEL TV SPORTS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1706,6 +1812,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "DAZN ACB PPV",
+                "original_grp": "ES| DAZN ACB PPV",
                 "grp": "DAZN ACB PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1720,6 +1827,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "DAZN ESPAÑA",
+                "original_grp": "ES| DAZN ESPAÑA",
                 "grp": "DAZN ESPAÑA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1734,6 +1842,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "DAZN EXCLUSIVE ᴴᴰ/RAW",
+                "original_grp": "ES| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",
                 "grp": "DAZN EXCLUSIVE ᴴᴰ/RAW",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1748,6 +1857,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "DAZN PPV",
+                "original_grp": "ES| DAZN PPV",
                 "grp": "DAZN PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1762,6 +1872,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "DIGI",
+                "original_grp": "ES| DIGI ᴿᴬᵂ",
                 "grp": "DIGI",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1776,6 +1887,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "DOCUMENTALES",
+                "original_grp": "ES| DOCUMENTALES",
                 "grp": "DOCUMENTALES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1790,6 +1902,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "ESTILO DE VIDA",
+                "original_grp": "ES| ESTILO DE VIDA",
                 "grp": "ESTILO DE VIDA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1804,6 +1917,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "INFANTIL",
+                "original_grp": "ES| INFANTIL",
                 "grp": "INFANTIL",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1818,6 +1932,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "LOCALES",
+                "original_grp": "ES| LOCALES",
                 "grp": "LOCALES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1832,6 +1947,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "M+ CINE",
+                "original_grp": "ES| M+ CINE",
                 "grp": "M+ CINE",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1846,6 +1962,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "M+ LIGA DE CAMPEONES",
+                "original_grp": "ES| M+ LIGA DE CAMPEONES VIP",
                 "grp": "M+ LIGA DE CAMPEONES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1860,6 +1977,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "M+ VAMOS",
+                "original_grp": "ES| M+ VAMOS",
                 "grp": "M+ VAMOS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1874,6 +1992,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "MAX PPV",
+                "original_grp": "ES| MAX PPV",
                 "grp": "MAX PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1888,6 +2007,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "MOVISTAR DEPORTES",
+                "original_grp": "ES| MOVISTAR DEPORTES",
                 "grp": "MOVISTAR DEPORTES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1902,6 +2022,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "MOVISTAR PLUS+",
+                "original_grp": "ES| MOVISTAR PLUS+",
                 "grp": "MOVISTAR PLUS+",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1916,6 +2037,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "MOVISTAR+ ESTRENOS",
+                "original_grp": "ES| MOVISTAR+ ESTRENOS",
                 "grp": "MOVISTAR+ ESTRENOS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1930,6 +2052,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "MOVISTAR+ SERIES",
+                "original_grp": "ES| MOVISTAR+ SERIES",
                 "grp": "MOVISTAR+ SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1944,6 +2067,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "MUSICA",
+                "original_grp": "ES| MUSICA",
                 "grp": "MUSICA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1958,6 +2082,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "NETFLIX ORIGINALS",
+                "original_grp": "ES| NETFLIX ORIGINALS",
                 "grp": "NETFLIX ORIGINALS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1972,6 +2097,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "OTROS DEPORTES",
+                "original_grp": "ES| OTROS DEPORTES",
                 "grp": "OTROS DEPORTES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -1986,6 +2112,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "original_grp": "ES| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
                 "grp": "PRIME RAW ⁶⁰ᶠᵖˢ",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2000,6 +2127,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "RAKUTEN TV",
+                "original_grp": "ES| RAKUTEN TV ᴿᴬᵂ",
                 "grp": "RAKUTEN TV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2014,6 +2142,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "RFEF PPV",
+                "original_grp": "ES| RFEF PPV",
                 "grp": "RFEF PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2028,6 +2157,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "SOCCER PPV",
+                "original_grp": "ES| SOCCER PPV",
                 "grp": "SOCCER PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2042,6 +2172,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "SPAIN VIP",
+                "original_grp": "ES| SPAIN VIP ᴿᴬᵂ",
                 "grp": "SPAIN VIP",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2056,6 +2187,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TDT ESPAÑA",
+                "original_grp": "ES| TDT ESPAÑA VIP",
                 "grp": "TDT ESPAÑA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2070,6 +2202,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TDT PREMIUM",
+                "original_grp": "ES| TDT PREMIUM VIP",
                 "grp": "TDT PREMIUM",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2084,6 +2217,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TDT SERIES",
+                "original_grp": "ES| TDT SERIES",
                 "grp": "TDT SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2098,6 +2232,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TELEFÓNICA",
+                "original_grp": "ES| TELEFÓNICA ᴿᴬᵂ",
                 "grp": "TELEFÓNICA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2112,6 +2247,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TIVIFY",
+                "original_grp": "ES| TIVIFY",
                 "grp": "TIVIFY",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2126,6 +2262,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TIVIFY GOLD",
+                "original_grp": "ES| TIVIFY GOLD",
                 "grp": "TIVIFY GOLD",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2140,6 +2277,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "TOROS",
+                "original_grp": "ES| TOROS",
                 "grp": "TOROS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2154,6 +2292,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "Spain",
                 "primotv_curated_group": "VIX PPV",
+                "original_grp": "ES| VIX PPV",
                 "grp": "VIX PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2175,6 +2314,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "24/7 MOVIES & SERIES",
+                "original_grp": "UK| 24/7 MOVIES & SERIES",
                 "grp": "24/7 MOVIES & SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2189,6 +2329,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "AMAZON PRIME +",
+                "original_grp": "UK| AMAZON PRIME +",
                 "grp": "AMAZON PRIME +",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2203,6 +2344,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "APPLE TV+ SERIES",
+                "original_grp": "UK| APPLE TV+ SERIES",
                 "grp": "APPLE TV+ SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2217,6 +2359,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "BBCI",
+                "original_grp": "UK| BBCI",
                 "grp": "BBCI",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2231,6 +2374,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "BBCIPLAYER SERIES",
+                "original_grp": "UK| BBCIPLAYER SERIES",
                 "grp": "BBCIPLAYER SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2245,6 +2389,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "CHAMPIONSHIP",
+                "original_grp": "UK| CHAMPIONSHIP",
                 "grp": "CHAMPIONSHIP",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2259,6 +2404,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "CUP GAMES & INTERNATIONAL",
+                "original_grp": "UK| CUP GAMES & INTERNATIONAL",
                 "grp": "CUP GAMES & INTERNATIONAL",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2273,6 +2419,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "DAZN PPV",
+                "original_grp": "UK| DAZN PPV",
                 "grp": "DAZN PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2287,6 +2434,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "DISCOVERY +",
+                "original_grp": "UK| DISCOVERY +",
                 "grp": "DISCOVERY +",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2301,6 +2449,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "DOCUMENTARY",
+                "original_grp": "UK| DOCUMENTARY",
                 "grp": "DOCUMENTARY",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2315,6 +2464,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "DOCUMENTARY HEVC",
+                "original_grp": "UK| DOCUMENTARY HEVC",
                 "grp": "DOCUMENTARY HEVC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2329,6 +2479,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "ENTERTAINMENT",
+                "original_grp": "UK| ENTERTAINMENT",
                 "grp": "ENTERTAINMENT",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2343,6 +2494,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "ENTERTAINMENT HEVC",
+                "original_grp": "UK| ENTERTAINMENT HEVC",
                 "grp": "ENTERTAINMENT HEVC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2357,6 +2509,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "EUROSPORT XTRA",
+                "original_grp": "UK| EUROSPORT XTRA",
                 "grp": "EUROSPORT XTRA",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2371,6 +2524,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "FA PLAYER",
+                "original_grp": "UK| FA PLAYER",
                 "grp": "FA PLAYER",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2385,6 +2539,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "GAA GO PPV",
+                "original_grp": "UK| GAA GO PPV",
                 "grp": "GAA GO PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2399,6 +2554,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "GENERAL",
+                "original_grp": "UK| GENERAL",
                 "grp": "GENERAL",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2413,6 +2569,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "GENERAL HEVC",
+                "original_grp": "UK| GENERAL HEVC",
                 "grp": "GENERAL HEVC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2427,6 +2584,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "HUB PREMIER PPV",
+                "original_grp": "UK| HUB PREMIER PPV",
                 "grp": "HUB PREMIER PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2441,6 +2599,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "ITV X",
+                "original_grp": "UK| ITV X VIP",
                 "grp": "ITV X",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2455,6 +2614,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "KIDS",
+                "original_grp": "UK| KIDS",
                 "grp": "KIDS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2469,6 +2629,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "KIDS HEVC",
+                "original_grp": "UK| KIDS HEVC",
                 "grp": "KIDS HEVC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2483,6 +2644,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "LEAGUE ONE",
+                "original_grp": "UK| LEAGUE ONE",
                 "grp": "LEAGUE ONE",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2497,6 +2659,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "LEAGUE TWO",
+                "original_grp": "UK| LEAGUE TWO",
                 "grp": "LEAGUE TWO",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2511,6 +2674,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MATCHROOM PPV",
+                "original_grp": "UK| MATCHROOM PPV",
                 "grp": "MATCHROOM PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2525,6 +2689,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MAX PPV",
+                "original_grp": "UK| MAX PPV",
                 "grp": "MAX PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2539,6 +2704,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MC VIDEO ᴴᴰ",
+                "original_grp": "UK| MC VIDEO ᴴᴰ",
                 "grp": "MC VIDEO ᴴᴰ",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2553,6 +2719,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MOLA PPV",
+                "original_grp": "UK| MOLA PPV",
                 "grp": "MOLA PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2567,6 +2734,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MONOMAX PPV",
+                "original_grp": "UK| MONOMAX PPV",
                 "grp": "MONOMAX PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2581,6 +2749,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MOVIES",
+                "original_grp": "UK| MOVIES",
                 "grp": "MOVIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2595,6 +2764,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MOVIES HEVC",
+                "original_grp": "UK| MOVIES HEVC",
                 "grp": "MOVIES HEVC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2609,6 +2779,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "MUSIC",
+                "original_grp": "UK| MUSIC",
                 "grp": "MUSIC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2623,6 +2794,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "NATIONAL LEAGUE",
+                "original_grp": "UK| NATIONAL LEAGUE",
                 "grp": "NATIONAL LEAGUE",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2637,6 +2809,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "NETFLIX ORIGINAL",
+                "original_grp": "UK| NETFLIX ORIGINAL",
                 "grp": "NETFLIX ORIGINAL",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2651,6 +2824,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "NETFLIX PPV",
+                "original_grp": "UK| NETFLIX PPV",
                 "grp": "NETFLIX PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2665,6 +2839,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "NEWS",
+                "original_grp": "UK| NEWS",
                 "grp": "NEWS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2679,6 +2854,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "NOW TV",
+                "original_grp": "UK| NOW TV",
                 "grp": "NOW TV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2693,6 +2869,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "PAY PER VIEW PPV",
+                "original_grp": "UK| PAY PER VIEW PPV",
                 "grp": "PAY PER VIEW PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2707,6 +2884,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "PDC BOARD PPV",
+                "original_grp": "UK| PDC BOARD PPV",
                 "grp": "PDC BOARD PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2721,6 +2899,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "PPV EVENTS",
+                "original_grp": "UK| PPV EVENTS",
                 "grp": "PPV EVENTS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2735,6 +2914,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "PRIME RAW ⁶⁰ᶠᵖˢ",
+                "original_grp": "UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",
                 "grp": "PRIME RAW ⁶⁰ᶠᵖˢ",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2749,6 +2929,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "PRIME VIDEO SERIES",
+                "original_grp": "UK| PRIME VIDEO SERIES",
                 "grp": "PRIME VIDEO SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2763,6 +2944,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "REALITY SHOW TV",
+                "original_grp": "UK| REALITY SHOW TV",
                 "grp": "REALITY SHOW TV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2777,6 +2959,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SKY SPORT+",
+                "original_grp": "UK| SKY SPORT+ VIP",
                 "grp": "SKY SPORT+",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2791,6 +2974,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SKY STORE",
+                "original_grp": "UK| SKY STORE",
                 "grp": "SKY STORE",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2805,6 +2989,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SKYMIX DOCS",
+                "original_grp": "UK| SKYMIX DOCS",
                 "grp": "SKYMIX DOCS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2819,6 +3004,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SKYMIX SERIES",
+                "original_grp": "UK| SKYMIX SERIES",
                 "grp": "SKYMIX SERIES",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2833,6 +3019,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SPORTS",
+                "original_grp": "UK| SPORTS",
                 "grp": "SPORTS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2847,6 +3034,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SPORTS HEVC",
+                "original_grp": "UK| SPORTS HEVC",
                 "grp": "SPORTS HEVC",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2861,6 +3049,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "SUPER LEAGUE+ PPV",
+                "original_grp": "UK| SUPER LEAGUE+ PPV",
                 "grp": "SUPER LEAGUE+ PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2875,6 +3064,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "TT RACE PPV",
+                "original_grp": "UK| TT RACE PPV",
                 "grp": "TT RACE PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2889,6 +3079,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "ULSTER GAA PPV",
+                "original_grp": "UK| ULSTER GAA PPV",
                 "grp": "ULSTER GAA PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2903,6 +3094,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "ULTIMATE POOL PPV",
+                "original_grp": "UK| ULTIMATE POOL PPV",
                 "grp": "ULTIMATE POOL PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2917,6 +3109,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "VIAPLAY PPV",
+                "original_grp": "UK| VIAPLAY PPV",
                 "grp": "VIAPLAY PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2931,6 +3124,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "VOLLEY BALL WORLD PPV",
+                "original_grp": "UK| VOLLEY BALL WORLD PPV",
                 "grp": "VOLLEY BALL WORLD PPV",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2945,6 +3139,7 @@
                 "primotv_parent": "International",
                 "primotv_subcatalog": "United Kingdom",
                 "primotv_curated_group": "WORLD SPORTS",
+                "original_grp": "UK| WORLD SPORTS",
                 "grp": "WORLD SPORTS",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2974,6 +3169,7 @@
                 "primotv_parent": "LifeMark",
                 "primotv_subcatalog": "Hallmark",
                 "primotv_curated_group": "Hallmark",
+                "original_grp": "US| ENTERTAINMENT",
                 "grp": "Hallmark",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -2995,6 +3191,7 @@
                 "primotv_parent": "LifeMark",
                 "primotv_subcatalog": "Lifetime",
                 "primotv_curated_group": "Lifetime",
+                "original_grp": "US| ENTERTAINMENT",
                 "grp": "Lifetime",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -3018,6 +3215,7 @@
             "primotv_parent": "Mangia",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Food & Cooking",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "Food & Cooking",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3040,6 +3238,7 @@
             "primotv_parent": "Mexico",
             "primotv_subcatalog": null,
             "primotv_curated_group": "MEXICO",
+            "original_grp": "LAT| MEXICO",
             "grp": "MEXICO",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3054,6 +3253,7 @@
             "primotv_parent": "Mexico",
             "primotv_subcatalog": null,
             "primotv_curated_group": "VIX",
+            "original_grp": "LAT| VIX ᴿᴬᵂ",
             "grp": "VIX",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3068,6 +3268,7 @@
             "primotv_parent": "Mexico",
             "primotv_subcatalog": null,
             "primotv_curated_group": "VIX MEXICO",
+            "original_grp": "LAT| VIX MEXICO",
             "grp": "VIX MEXICO",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3082,6 +3283,7 @@
             "primotv_parent": "Mexico",
             "primotv_subcatalog": null,
             "primotv_curated_group": "VIX PPV MEXICO",
+            "original_grp": "LAT| VIX PPV MEXICO",
             "grp": "VIX PPV MEXICO",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3104,6 +3306,7 @@
             "primotv_parent": "Music",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Music",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "Music",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3118,6 +3321,7 @@
             "primotv_parent": "Music",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Music Concerts",
+            "original_grp": "MU| MUSIC CONCERTS",
             "grp": "Music Concerts",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3140,6 +3344,7 @@
             "primotv_parent": "NBC",
             "primotv_subcatalog": null,
             "primotv_curated_group": "NBC",
+            "original_grp": "US| PRIME",
             "grp": "NBC",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3162,6 +3367,7 @@
             "primotv_parent": "News",
             "primotv_subcatalog": null,
             "primotv_curated_group": "News",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "News",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3184,6 +3390,7 @@
             "primotv_parent": "Other US Cable / Entertainment",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Other US Cable / Entertainment",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "Other US Cable / Entertainment",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3206,6 +3413,7 @@
             "primotv_parent": "PBS",
             "primotv_subcatalog": null,
             "primotv_curated_group": "PBS",
+            "original_grp": "US| ENTERTAINMENT",
             "grp": "PBS",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3234,6 +3442,7 @@
                 "primotv_parent": "Premiums",
                 "primotv_subcatalog": "Cinemax",
                 "primotv_curated_group": "Cinemax",
+                "original_grp": "US| MOVIES NETWORK",
                 "grp": "Cinemax",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -3255,6 +3464,7 @@
                 "primotv_parent": "Premiums",
                 "primotv_subcatalog": "HBO",
                 "primotv_curated_group": "HBO",
+                "original_grp": "US| MOVIES NETWORK",
                 "grp": "HBO",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -3276,6 +3486,7 @@
                 "primotv_parent": "Premiums",
                 "primotv_subcatalog": "Showtime",
                 "primotv_curated_group": "Showtime",
+                "original_grp": "US| ENTERTAINMENT",
                 "grp": "Showtime",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -3297,6 +3508,7 @@
                 "primotv_parent": "Premiums",
                 "primotv_subcatalog": "Starz",
                 "primotv_curated_group": "Starz",
+                "original_grp": "US| MOVIES NETWORK",
                 "grp": "Starz",
                 "primotv_sort_priority": 500,
                 "primotv_logo_key": null
@@ -3320,6 +3532,7 @@
             "primotv_parent": "UniMundo",
             "primotv_subcatalog": null,
             "primotv_curated_group": "Telemundo / Univision",
+            "original_grp": "US| PRIME",
             "grp": "Telemundo / Univision",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3342,6 +3555,7 @@
             "primotv_parent": "Vibes",
             "primotv_subcatalog": null,
             "primotv_curated_group": "4K RELAX 1920P",
+            "original_grp": "4K RELAX 1920P",
             "grp": "4K RELAX 1920P",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
@@ -3356,6 +3570,7 @@
             "primotv_parent": "Vibes",
             "primotv_subcatalog": null,
             "primotv_curated_group": "4K RELAX UHD 3840P",
+            "original_grp": "4K RELAX UHD 3840P",
             "grp": "4K RELAX UHD 3840P",
             "primotv_sort_priority": 500,
             "primotv_logo_key": null
